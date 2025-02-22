@@ -31,7 +31,7 @@ List your team members along with their roles.
 - *Member 7* - Role
 - *Member 8* - Role
 
-![Team Photo](media/team-photo.png)
+![Team Photo](DATA-DETECTIVES.jpg)
 
 ---
 
