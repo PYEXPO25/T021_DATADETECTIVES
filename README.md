@@ -122,7 +122,7 @@ Images to demonstrate the user interface:
 ## Resources
 
 ### 📄 PowerPoint Presentation
-[Click here to view the PPT](insert-drive-link-here)
+[Click here to view the PPT]([T021_DataDetectives.pdf](https://github.com/user-attachments/files/18923794/T021_DataDetectives.pdf))
 
 ### 🎥 Project Video
 [Click here to view the project demo video](insert-drive-link-here)
