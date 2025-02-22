@@ -6,30 +6,27 @@
 
 *Problem Statement ID – PYS118*
 
-Formulate your problem statement clearly and concisely.
-
+In india there are around 41% of people who are under privileged or from middle class can't afford facility like car incase if they want the access they use apps like red taxi the concern there is privacy because traveling with a stranger(driver) isn't advisable and In india wedding is considered to be the prestigious event of the family but in some case people can't afford wedding gown and accessories
 ---
 
 ## Overview
 
-Provide an overview of the project, its purpose, and what it aims to achieve along with proposed solution
+In our website  we render service or  act as a middle men where we connect the buyer and the vendor.
 
 ---
 
 ## Team Members
 
-*Team ID – xxxxx*
+*Team ID – T021*
 
 List your team members along with their roles.
 
-- *Member 1* - Team Leader
-- *Member 2* - Role
-- *Member 3* - Role
-- *Member 4* - Role
-- *Member 5* - Role
-- *Member 6* - Role
-- *Member 7* - Role
-- *Member 8* - Role
+- *SUNDHARAM* - Team Leader
+- *SANJAY * - frontend
+- *YAZHINI* - frontend
+- *SOWDESWARI* - backend,database
+- *HARINI SRI* - django
+- *ABARNAA* - overview
 
 ![Team Photo](DATA-DETECTIVES.jpg)
 
@@ -39,11 +36,10 @@ List your team members along with their roles.
 
 List the technologies and tools used in the project. For example:
 
-- *Frontend:* HTML, CSS, JavaScript, ReactJS
-- *Backend:* Flask, Django
-- *Database:* MongoDB, MySQL
-- *Other Tools:* Docker, Git, TensorFlow
-
+- *Frontend:* HTML
+- *Backend:* Django
+- *Database:* MySQL
+- *Other Tools:* Github
 ---
 
 ## Getting Started
@@ -63,7 +59,8 @@ Follow these steps to clone and run the application locally.
 
 1. Navigate to the project directory:
    bash
-   cd repository-name
+   T021_DATADETECTIVES
+
    
 2. Create a virtual environment:
    bash
@@ -73,10 +70,6 @@ Follow these steps to clone and run the application locally.
    - On Windows:
      bash
      venv\Scripts\activate
-     
-   - On macOS/Linux:
-     bash
-     source venv/bin/activate
      
 4. Install dependencies:
    bash
@@ -95,9 +88,7 @@ Follow these steps to clone and run the application locally.
    bash
    flask run
    
-2. Open your browser and navigate to:
-   
-   http://127.0.0.1:5000/
+2. In terminal: python mange.py runserver
    
 
 ---
@@ -109,12 +100,13 @@ Images to demonstrate the user interface:
 *Example pages:*
 
 1. *Landing Page:*
-   ![Landing Page Mockup](media/LoadingPage.png)
+   ![Landing Page Mockup](![Image](https://github.com/user-attachments/assets/5757c914-0992-4856-aa0c-08ddc95cf9df))
+   ![Image](https://github.com/user-attachments/assets/c703231b-81e1-460e-bbe6-10ab24e01c16)
 
-2. *Dashboard:*
+3. *Dashboard:*
    ![Dashboard Mockup](media/DashBoard.png)
 
-3. *Analytics View:*
+4. *Analytics View:*
    ![Analytics Mockup](media/Analytics.png)
 
 ---
@@ -122,8 +114,7 @@ Images to demonstrate the user interface:
 ## Resources
 
 ### 📄 PowerPoint Presentation
-[Click here to view the PPT]([T021_DataDetectives.pdf](https://github.com/user-attachments/files/18923794/T021_DataDetectives.pdf))
-
+https://in.docworkspace.com/d/sIH6bj7qdAqLR5r0G?sa=601.1074
 ### 🎥 Project Video
 [Click here to view the project demo video](insert-drive-link-here)
 
