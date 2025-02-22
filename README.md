@@ -102,7 +102,7 @@ Images to demonstrate the user interface:
 1. *Landing Page:*
    ![Landing Page Mockup]![Image](https://github.com/user-attachments/assets/5757c914-0992-4856-aa0c-08ddc95cf9df)
    ![Image](https://github.com/user-attachments/assets/c703231b-81e1-460e-bbe6-10ab24e01c16)
-   https://github.com/user-attachments/assets/49d70221-1552-45b8-8dac-e191107f6f1d
+   
 3. *Dashboard:*
    ![Dashboard Mockup]
 
